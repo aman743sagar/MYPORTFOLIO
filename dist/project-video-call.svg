@@ -1,0 +1,24 @@
+<svg width="1200" height="760" viewBox="0 0 1200 760" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="760" rx="48" fill="#08101F"/>
+  <rect x="60" y="58" width="1080" height="644" rx="34" fill="url(#bg)"/>
+  <rect x="126" y="122" width="656" height="432" rx="34" fill="white" fill-opacity="0.12"/>
+  <rect x="816" y="122" width="258" height="188" rx="28" fill="white" fill-opacity="0.14"/>
+  <rect x="816" y="332" width="258" height="222" rx="28" fill="white" fill-opacity="0.10"/>
+  <circle cx="452" cy="318" r="120" fill="#0F172A" fill-opacity="0.72"/>
+  <circle cx="452" cy="276" r="54" fill="#E2E8F0"/>
+  <path d="M350 414C350 357.667 395.667 312 452 312C508.333 312 554 357.667 554 414V448H350V414Z" fill="#E2E8F0"/>
+  <circle cx="947" cy="214" r="56" fill="#14B8A6"/>
+  <text x="830" y="404" fill="white" font-family="Space Grotesk, sans-serif" font-size="44" font-weight="700">WebRTC +</text>
+  <text x="830" y="456" fill="white" font-family="Space Grotesk, sans-serif" font-size="44" font-weight="700">Socket.IO</text>
+  <rect x="252" y="598" width="110" height="52" rx="26" fill="#EF4444"/>
+  <rect x="392" y="598" width="110" height="52" rx="26" fill="#14B8A6"/>
+  <rect x="532" y="598" width="110" height="52" rx="26" fill="#38BDF8"/>
+  <rect x="672" y="598" width="110" height="52" rx="26" fill="#2563EB"/>
+  <defs>
+    <linearGradient id="bg" x1="60" y1="58" x2="1140" y2="702" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1D4ED8"/>
+      <stop offset="0.46" stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#0F766E"/>
+    </linearGradient>
+  </defs>
+</svg>

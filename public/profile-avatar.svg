@@ -1,0 +1,29 @@
+<svg width="720" height="720" viewBox="0 0 720 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="720" height="720" rx="72" fill="url(#bg)"/>
+  <circle cx="360" cy="278" r="148" fill="url(#face)"/>
+  <path d="M198 575C198 485.53 270.53 413 360 413C449.47 413 522 485.53 522 575V610H198V575Z" fill="url(#body)"/>
+  <path d="M250 218C250 145.68 308.68 87 381 87C453.32 87 512 145.68 512 218V251H250V218Z" fill="#0F172A" fill-opacity="0.92"/>
+  <path d="M288 233C288 194.34 319.34 163 358 163H406C444.66 163 476 194.34 476 233V289H288V233Z" fill="#111827"/>
+  <circle cx="305" cy="278" r="16" fill="#0F172A"/>
+  <circle cx="415" cy="278" r="16" fill="#0F172A"/>
+  <path d="M318 345C341.237 366.241 378.763 366.241 402 345" stroke="#0F172A" stroke-width="18" stroke-linecap="round"/>
+  <path d="M118 130C118 95.7583 145.758 68 180 68H278V164H180C145.758 164 118 136.242 118 102V130Z" fill="white" fill-opacity="0.12"/>
+  <path d="M442 556H586C617.48 556 643 581.52 643 613C643 644.48 617.48 670 586 670H442V556Z" fill="white" fill-opacity="0.12"/>
+  <text x="121" y="144" fill="white" fill-opacity="0.9" font-family="Space Grotesk, sans-serif" font-size="44" font-weight="700">React + MERN</text>
+  <text x="461" y="618" fill="white" fill-opacity="0.9" font-family="Space Grotesk, sans-serif" font-size="44" font-weight="700">Aman</text>
+  <defs>
+    <linearGradient id="bg" x1="71" y1="54" x2="632" y2="668" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#14B8A6"/>
+      <stop offset="0.51" stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#2563EB"/>
+    </linearGradient>
+    <linearGradient id="face" x1="223" y1="141" x2="503" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F8D9C5"/>
+      <stop offset="1" stop-color="#E9B995"/>
+    </linearGradient>
+    <linearGradient id="body" x1="198" y1="413" x2="522" y2="610" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E2E8F0"/>
+      <stop offset="1" stop-color="#BFDBFE"/>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,28 @@
+<svg width="1200" height="760" viewBox="0 0 1200 760" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="760" rx="48" fill="#08101F"/>
+  <rect x="62" y="58" width="1076" height="644" rx="34" fill="url(#bg)"/>
+  <rect x="112" y="118" width="244" height="484" rx="26" fill="white" fill-opacity="0.08"/>
+  <rect x="392" y="118" width="366" height="216" rx="30" fill="white" fill-opacity="0.12"/>
+  <rect x="792" y="118" width="284" height="216" rx="30" fill="white" fill-opacity="0.12"/>
+  <rect x="392" y="372" width="684" height="230" rx="30" fill="white" fill-opacity="0.10"/>
+  <circle cx="208" cy="192" r="46" fill="#14B8A6"/>
+  <rect x="112" y="620" width="964" height="28" rx="14" fill="white" fill-opacity="0.10"/>
+  <rect x="144" y="262" width="180" height="16" rx="8" fill="white" fill-opacity="0.75"/>
+  <rect x="144" y="294" width="120" height="12" rx="6" fill="white" fill-opacity="0.28"/>
+  <rect x="144" y="338" width="180" height="16" rx="8" fill="white" fill-opacity="0.75"/>
+  <rect x="144" y="370" width="144" height="12" rx="6" fill="white" fill-opacity="0.28"/>
+  <text x="432" y="195" fill="white" font-family="Space Grotesk, sans-serif" font-size="52" font-weight="700">Food Order</text>
+  <text x="432" y="256" fill="#B6D4FF" font-family="Outfit, sans-serif" font-size="28">MERN stack ordering experience with auth and order flow</text>
+  <rect x="432" y="418" width="208" height="48" rx="24" fill="#14B8A6"/>
+  <rect x="658" y="418" width="180" height="48" rx="24" fill="#38BDF8"/>
+  <rect x="856" y="418" width="180" height="48" rx="24" fill="#2563EB"/>
+  <rect x="432" y="502" width="556" height="18" rx="9" fill="white" fill-opacity="0.68"/>
+  <rect x="432" y="540" width="462" height="18" rx="9" fill="white" fill-opacity="0.32"/>
+  <defs>
+    <linearGradient id="bg" x1="62" y1="58" x2="1138" y2="702" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F766E"/>
+      <stop offset="0.48" stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#1D4ED8"/>
+    </linearGradient>
+  </defs>
+</svg>
